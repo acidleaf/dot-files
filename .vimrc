@@ -1,0 +1,13 @@
+set nowrap
+set tabstop=4
+set autoindent
+set copyindent
+set number
+set shiftwidth=4
+set shiftround
+set showmatch
+set smarttab
+set nobackup
+set noswapfile
+syntax enable
+colorscheme monokai
